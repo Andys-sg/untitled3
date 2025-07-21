@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e5f7b7b-4480-41a5-80e7-91ba104e3532" name="Changes" comment="">
+    <list default="true" id="9e5f7b7b-4480-41a5-80e7-91ba104e3532" name="Changes" comment="создал neoban.txt&#10;yfgbcfk z cjplfk">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fail.txt" beforeDir="false" afterPath="$PROJECT_DIR$/fail.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,18 +20,18 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Andys-sg"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Andys-sg&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Andys-sg/untitled3.git",
-    "accountId": "85399391-465d-4ae7-91d7-fe90ffe594b9"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Andys-sg/untitled3.git&quot;,
+    &quot;accountId&quot;: &quot;85399391-465d-4ae7-91d7-fe90ffe594b9&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -49,7 +48,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "master228",
     "junie.onboarding.icon.badge.shown": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -75,6 +74,7 @@
       <option name="presentableId" value="Default" />
       <updated>1753015394433</updated>
       <workItem from="1753015395492" duration="6453000" />
+      <workItem from="1753126491993" duration="785000" />
     </task>
     <task id="LOCAL-00001" summary="Создал проєкт.">
       <option name="closed" value="true" />
@@ -132,7 +132,23 @@
       <option name="project" value="LOCAL" />
       <updated>1753119323120</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="delete 4 fale">
+      <option name="closed" value="true" />
+      <created>1753126719694</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1753126719694</updated>
+    </task>
+    <task id="LOCAL-00009" summary="создал neoban.txt&#10;yfgbcfk z cjplfk">
+      <option name="closed" value="true" />
+      <created>1753126872517</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1753126872517</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -157,6 +173,8 @@
     <MESSAGE value="Внес изминения в 2 файла." />
     <MESSAGE value="Внес изминения в 2 файла повторно." />
     <MESSAGE value="add fail.txt" />
-    <option name="LAST_COMMIT_MESSAGE" value="add fail.txt" />
+    <MESSAGE value="delete 4 fale" />
+    <MESSAGE value="создал neoban.txt&#10;yfgbcfk z cjplfk" />
+    <option name="LAST_COMMIT_MESSAGE" value="создал neoban.txt&#10;yfgbcfk z cjplfk" />
   </component>
 </project>
