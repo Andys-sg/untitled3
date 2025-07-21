@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e5f7b7b-4480-41a5-80e7-91ba104e3532" name="Changes" comment="создал neoban.txt&#10;yfgbcfk z cjplfk">
+    <list default="true" id="9e5f7b7b-4480-41a5-80e7-91ba104e3532" name="Changes" comment="немного его изменил&#10;лпять поменял его">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,7 +75,7 @@
       <option name="presentableId" value="Default" />
       <updated>1753015394433</updated>
       <workItem from="1753015395492" duration="6453000" />
-      <workItem from="1753126491993" duration="785000" />
+      <workItem from="1753126491993" duration="2577000" />
     </task>
     <task id="LOCAL-00001" summary="Создал проєкт.">
       <option name="closed" value="true" />
@@ -148,7 +149,23 @@
       <option name="project" value="LOCAL" />
       <updated>1753126872517</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="немного его изменил">
+      <option name="closed" value="true" />
+      <created>1753127349567</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1753127349567</updated>
+    </task>
+    <task id="LOCAL-00011" summary="немного его изменил&#10;лпять поменял его">
+      <option name="closed" value="true" />
+      <created>1753128001971</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1753128001971</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -175,6 +192,8 @@
     <MESSAGE value="add fail.txt" />
     <MESSAGE value="delete 4 fale" />
     <MESSAGE value="создал neoban.txt&#10;yfgbcfk z cjplfk" />
-    <option name="LAST_COMMIT_MESSAGE" value="создал neoban.txt&#10;yfgbcfk z cjplfk" />
+    <MESSAGE value="немного его изменил" />
+    <MESSAGE value="немного его изменил&#10;лпять поменял его" />
+    <option name="LAST_COMMIT_MESSAGE" value="немного его изменил&#10;лпять поменял его" />
   </component>
 </project>
