@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e5f7b7b-4480-41a5-80e7-91ba104e3532" name="Changes" comment="kuku epta">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="9e5f7b7b-4480-41a5-80e7-91ba104e3532" name="Changes" comment="kuku eptadsdsa" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +13,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="master228" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -48,7 +46,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master228",
+    "git-widget-placeholder": "vasya",
     "junie.onboarding.icon.badge.shown": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -74,7 +72,7 @@
       <option name="presentableId" value="Default" />
       <updated>1753015394433</updated>
       <workItem from="1753015395492" duration="6453000" />
-      <workItem from="1753126491993" duration="5138000" />
+      <workItem from="1753126491993" duration="5745000" />
     </task>
     <task id="LOCAL-00001" summary="Создал проєкт.">
       <option name="closed" value="true" />
@@ -180,7 +178,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753129866666</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="kuku eptadsdsa">
+      <option name="closed" value="true" />
+      <created>1753207272208</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1753207272208</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -211,6 +217,7 @@
     <MESSAGE value="немного его изменил&#10;лпять поменял его" />
     <MESSAGE value="init" />
     <MESSAGE value="kuku epta" />
-    <option name="LAST_COMMIT_MESSAGE" value="kuku epta" />
+    <MESSAGE value="kuku eptadsdsa" />
+    <option name="LAST_COMMIT_MESSAGE" value="kuku eptadsdsa" />
   </component>
 </project>
