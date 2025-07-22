@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e5f7b7b-4480-41a5-80e7-91ba104e3532" name="Changes" comment="немного его изменил&#10;лпять поменял его">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="9e5f7b7b-4480-41a5-80e7-91ba104e3532" name="Changes" comment="kuku epta">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,7 +74,7 @@
       <option name="presentableId" value="Default" />
       <updated>1753015394433</updated>
       <workItem from="1753015395492" duration="6453000" />
-      <workItem from="1753126491993" duration="2577000" />
+      <workItem from="1753126491993" duration="5138000" />
     </task>
     <task id="LOCAL-00001" summary="Создал проєкт.">
       <option name="closed" value="true" />
@@ -165,7 +164,23 @@
       <option name="project" value="LOCAL" />
       <updated>1753128001971</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="init">
+      <option name="closed" value="true" />
+      <created>1753129779568</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1753129779568</updated>
+    </task>
+    <task id="LOCAL-00013" summary="kuku epta">
+      <option name="closed" value="true" />
+      <created>1753129866666</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1753129866666</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -194,6 +209,8 @@
     <MESSAGE value="создал neoban.txt&#10;yfgbcfk z cjplfk" />
     <MESSAGE value="немного его изменил" />
     <MESSAGE value="немного его изменил&#10;лпять поменял его" />
-    <option name="LAST_COMMIT_MESSAGE" value="немного его изменил&#10;лпять поменял его" />
+    <MESSAGE value="init" />
+    <MESSAGE value="kuku epta" />
+    <option name="LAST_COMMIT_MESSAGE" value="kuku epta" />
   </component>
 </project>
